@@ -8,13 +8,13 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
-  authDomain: process.env.AUTH_DOMAIN,
-  projectId: process.env.PROJECT_ID,
-  storageBucket: process.env.STORAGE_BUCKET,
-  messagingSenderId: process.env.MESSAGING_SENDER_ID,
-  appId: process.env.APP_ID,
-  measurementId: process.env.MEASUREMENT_ID
+  apiKey: "AIzaSyCTufmURlUT2-F2CqvG4eLUtqzQ68PV7Cg",
+  authDomain: "chat-app-realtiem.firebaseapp.com",
+  projectId: "chat-app-realtiem",
+  storageBucket: "chat-app-realtiem.appspot.com",
+  messagingSenderId: "655425922066",
+  appId: "1:655425922066:web:913601cf5fdeb6727a24cb",
+  measurementId: "G-XXYE95228Y"
 };
 
 // Initialize Firebase
